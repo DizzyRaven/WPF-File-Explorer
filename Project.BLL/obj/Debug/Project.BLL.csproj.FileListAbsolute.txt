@@ -1,0 +1,5 @@
+C:\Users\Asus\source\repos\CSharpProject\Project.BLL\bin\Debug\Project.BLL.dll
+C:\Users\Asus\source\repos\CSharpProject\Project.BLL\bin\Debug\Project.BLL.pdb
+C:\Users\Asus\source\repos\CSharpProject\Project.BLL\obj\Debug\Project.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\CSharpProject\Project.BLL\obj\Debug\Project.BLL.dll
+C:\Users\Asus\source\repos\CSharpProject\Project.BLL\obj\Debug\Project.BLL.pdb

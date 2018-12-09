@@ -1,0 +1,56 @@
+2018-12-09 19:19:45,709 [1] INFO CSharpProject.App -         =============  Started Logging  =============        
+2018-12-09 19:19:55,471 [1] DEBUG CSharpProject.MainWindow - path
+2018-12-09 19:20:53,755 [1] INFO CSharpProject.App -         =============  Started Logging  =============        
+2018-12-09 19:27:04,402 [1] INFO CSharpProject.App -         =============  Started Logging  =============        
+2018-12-09 19:27:16,269 [1] DEBUG CSharpProject.MainWindow - user input path : C:/games
+2018-12-09 19:27:17,189 [1] DEBUG CSharpProject.MainWindow - user input path : C:/games
+2018-12-09 19:27:17,690 [1] DEBUG CSharpProject.MainWindow - user input path : C:/games
+2018-12-09 19:27:56,823 [1] INFO CSharpProject.App -         =============  Started Logging  =============        
+2018-12-09 19:28:04,630 [1] DEBUG CSharpProject.MainWindow - user input path : C:/games
+2018-12-09 19:28:05,479 [1] DEBUG CSharpProject.MainWindow - user input path : C:/games
+2018-12-09 19:28:06,003 [1] DEBUG CSharpProject.MainWindow - user input path : C:/games
+2018-12-09 19:28:06,181 [1] DEBUG CSharpProject.MainWindow - user input path : C:/games
+2018-12-09 19:28:06,955 [1] DEBUG CSharpProject.MainWindow - user input path : C:/games
+2018-12-09 19:28:19,707 [1] DEBUG CSharpProject.MainWindow - user input path : C:/Program Fiels
+2018-12-09 19:28:35,946 [1] INFO CSharpProject.App -         =============  Started Logging  =============        
+2018-12-09 19:28:56,604 [1] DEBUG CSharpProject.MainWindow - user input path : C:\
+2018-12-09 19:33:12,742 [1] INFO CSharpProject.App -         =============  Started Logging  =============        
+2018-12-09 19:33:22,331 [1] DEBUG CSharpProject.MainWindow - user input path : C:/kma
+2018-12-09 19:33:24,399 [1] DEBUG CSharpProject.MainWindow - user input path : C:/kma
+2018-12-09 19:33:24,978 [1] DEBUG CSharpProject.MainWindow - user input path : C:/kma
+2018-12-09 19:33:25,154 [1] DEBUG CSharpProject.MainWindow - user input path : C:/kma
+2018-12-09 19:33:25,321 [1] DEBUG CSharpProject.MainWindow - user input path : C:/kma
+2018-12-09 19:33:25,519 [1] DEBUG CSharpProject.MainWindow - user input path : C:/kma
+2018-12-09 19:33:25,826 [1] DEBUG CSharpProject.MainWindow - user input path : C:/kma
+2018-12-09 19:33:26,101 [1] DEBUG CSharpProject.MainWindow - user input path : C:/kma
+2018-12-09 19:33:26,676 [1] DEBUG CSharpProject.MainWindow - user input path : C:/kma
+2018-12-09 19:33:32,823 [1] DEBUG CSharpProject.MainWindow - user input path : C:/games
+2018-12-09 19:33:38,506 [1] DEBUG CSharpProject.MainWindow - user input path : C:/KMA
+2018-12-09 19:36:06,456 [1] INFO CSharpProject.App -         =============  Started Logging  =============        
+2018-12-09 19:36:14,788 [1] DEBUG CSharpProject.MainWindow - user input path : C:/kma
+2018-12-09 19:36:15,523 [1] DEBUG CSharpProject.MainWindow - user input path : C:/kma
+2018-12-09 19:36:16,271 [1] DEBUG CSharpProject.MainWindow - user input path : C:/kma
+2018-12-09 19:36:17,196 [1] DEBUG CSharpProject.MainWindow - user input path : C:/kma
+2018-12-09 19:36:18,882 [1] DEBUG CSharpProject.MainWindow - user input path : C:/kma
+2018-12-09 19:49:34,697 [1] INFO CSharpProject.App -         =============  Started Logging  =============        
+2018-12-09 19:50:02,620 [1] INFO CSharpProject.App -         =============  Started Logging  =============        
+2018-12-09 19:50:34,655 [1] INFO CSharpProject.App -         =============  Started Logging  =============        
+2018-12-09 19:52:18,310 [1] INFO CSharpProject.App -         =============  Started Logging  =============        
+2018-12-09 19:52:48,791 [1] INFO CSharpProject.App -         =============  Started Logging  =============        
+2018-12-09 19:54:03,444 [1] INFO CSharpProject.App -         =============  Started Logging  =============        
+2018-12-09 19:58:44,852 [1] INFO CSharpProject.App -         =============  Started Logging  =============        
+2018-12-09 20:37:24,673 [1] INFO CSharpProject.App -         =============  Started Logging  =============        
+2018-12-09 20:39:00,189 [1] INFO CSharpProject.App -         =============  Started Logging  =============        
+2018-12-09 20:39:30,134 [1] INFO CSharpProject.App -         =============  Started Logging  =============        
+2018-12-09 20:44:41,720 [1] INFO CSharpProject.App -         =============  Started Logging  =============        
+2018-12-09 20:44:55,533 [1] INFO CSharpProject.App -         =============  Started Logging  =============        
+2018-12-09 20:45:50,067 [1] INFO CSharpProject.App -         =============  Started Logging  =============        
+2018-12-09 20:46:07,046 [1] INFO CSharpProject.App -         =============  Started Logging  =============        
+2018-12-09 20:46:18,827 [1] INFO CSharpProject.App -         =============  Started Logging  =============        
+2018-12-09 20:46:35,130 [1] INFO CSharpProject.App -         =============  Started Logging  =============        
+2018-12-09 20:46:47,671 [1] INFO CSharpProject.App -         =============  Started Logging  =============        
+2018-12-09 20:51:02,345 [1] INFO CSharpProject.App -         =============  Started Logging  =============        
+2018-12-09 20:51:16,234 [1] INFO CSharpProject.App -         =============  Started Logging  =============        
+2018-12-09 20:51:41,079 [1] INFO CSharpProject.App -         =============  Started Logging  =============        
+2018-12-09 20:51:58,522 [1] INFO CSharpProject.App -         =============  Started Logging  =============        
+2018-12-09 20:52:05,372 [1] INFO CSharpProject.App -         =============  Started Logging  =============        
