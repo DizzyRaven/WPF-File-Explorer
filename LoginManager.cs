@@ -17,15 +17,15 @@ namespace CSharpProject
         public static bool ValidateUser(string username, string password)
         {
             var user = users.FirstOrDefault(x => x.Login == username);
-            if (user != null)
-            {
+            //if (user != null)
+            //{
 
-                if( password == users.Find(x => x.Login == user.Login).Password)
-                {
-                    SerializeUser(user);
-                    return true;
-                }
-            }
+            //    if( password == users.Find(x => x.Login == user.Login).Password)
+            //    {
+            //        SerializeUser(user);
+            //        return true;
+            //    }
+            //}
             return false;
         }
         private static void SerializeUser(User user)

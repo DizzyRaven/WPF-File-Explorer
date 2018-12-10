@@ -23,3 +23,13 @@ C:\Users\Asus\source\repos\CSharpProject\bin\Debug\log4net.dll
 C:\Users\Asus\source\repos\CSharpProject\bin\Debug\log4net.xml
 C:\Users\Asus\source\repos\CSharpProject\obj\Debug\CSharpProject_Content.g.cs
 C:\Users\Asus\source\repos\CSharpProject\obj\Debug\CSharpProject.csproj.CopyComplete
+C:\Users\Asus\source\repos\CSharpProject\bin\Debug\Project.BLL.dll
+C:\Users\Asus\source\repos\CSharpProject\bin\Debug\Project.DAL.dll
+C:\Users\Asus\source\repos\CSharpProject\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\CSharpProject\bin\Debug\Project.BLL.pdb
+C:\Users\Asus\source\repos\CSharpProject\bin\Debug\Project.DAL.pdb
+C:\Users\Asus\source\repos\CSharpProject\bin\Debug\Project.DAL.dll.config
+C:\Users\Asus\source\repos\CSharpProject\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\CSharpProject\bin\Debug\Project.BLL.dll.config
+C:\Users\Asus\source\repos\CSharpProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\CSharpProject\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Project.BLL.Services;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -13,6 +14,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Project.BLL.DTO;
+using System.Threading;
 
 namespace CSharpProject
 {
@@ -21,13 +24,30 @@ namespace CSharpProject
     /// </summary>
     public partial class MainWindow : Window
     {
+        UserService service;
+        UserDto currentUser;
         public MainWindow()
         {
+            service = new UserService();
+            Thread.Sleep(100);
             InitializeComponent();
+        }
+        public MainWindow(UserDto user)
+            :this()
+        {
+            currentUser = user;
         }
 
         private async void Button_Click(object sender, RoutedEventArgs e)
         {
+           
+            UserQueryDto queryDto = new UserQueryDto()
+            {
+                Date = DateTime.Now,
+                Path = path.Text,
+                UserId = currentUser.Id
+            };
+            service.AddQuery(queryDto);
             ProgressBar.Value = 0;
             List<Models.Item> items = new List<Models.Item>();
             var itemProvider = new ItemProvider();
@@ -42,13 +62,22 @@ namespace CSharpProject
             }
             DataContext = items;
         }
+        private void AddQuery()
+        {
+
+        }
         private async void LogOut(object sender, RoutedEventArgs e)
         {
-            LoginManager.ClearDat();
-            LogInWindow logIn = new LogInWindow();
-            logIn.Show();
+
+            //LoginManager.ClearDat();
+            
+                service.LogInOut(currentUser);
+
+           // Application.Current.MainWindow = new LogInWindow();
+            new LogInWindow().Show();
             this.Close();
-          
+
+
         }
     }
 }
